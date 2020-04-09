@@ -7,4 +7,3 @@ Two columns --> Hotel Name and Booking_Possibility (0 or 1)
 Data - https://www.kaggle.com/jessemostipak/hotel-booking-demand 
 
 Author - Vedant Tilwani
-'''
